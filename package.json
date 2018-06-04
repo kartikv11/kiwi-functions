@@ -1,0 +1,10 @@
+{
+  "name": "namaste",
+  "version": "0.0.1",
+  "description": "To demonstrate a HTTP cloud function",
+  "main": "index.js",
+  "author": "Kartik Verma",
+  "dependencies": {
+  	"@google/cloud-debug": "^0.9.0"
+  }
+}
